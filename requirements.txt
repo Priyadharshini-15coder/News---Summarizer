@@ -6,3 +6,4 @@ deep-translator
 beautifulsoup4
 requests
 newspaper3k
+lxml[html_clean]
