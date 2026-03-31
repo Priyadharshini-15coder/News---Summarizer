@@ -1,0 +1,7 @@
+streamlit
+nltk
+matplotlib
+textblob
+deep-translator
+beautifulsoup4
+requests
